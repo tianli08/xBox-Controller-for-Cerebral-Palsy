@@ -4,4 +4,6 @@
 
 - Embedded Project.
   
-- Made Using 100% recycled materials, making it sustainable and budge friendly.
+- Made Using 100% recycled materials, making it sustainable and budget friendly.
+
+- All features included in the project.
